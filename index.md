@@ -1,6 +1,6 @@
 # A little insight into Jerome
 <ul>
-<li><a href="https://github.com/Jerome-Wendoh-Milimu/About-Jerome/">About Jerome</a></li>
+<li><a href="https://jerome-wendoh-milimu.github.io/About-Jerome/">About Jerome</a></li>
 </ul>
 
 # My Projects

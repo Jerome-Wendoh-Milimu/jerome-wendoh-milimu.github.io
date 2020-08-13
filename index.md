@@ -1,7 +1,7 @@
-# Some insight into Jerome
 <ul>
 <li><a href="https://jerome-wendoh-milimu.github.io/About-Jerome/">About Jerome</a></li>
 </ul>
+
 
 # My Projects
 Here are a list of projects that I am have been working on:

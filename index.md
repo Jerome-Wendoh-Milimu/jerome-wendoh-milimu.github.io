@@ -1,4 +1,4 @@
-# A little insight into Jerome
+# Some insight into Jerome
 <ul>
 <li><a href="https://jerome-wendoh-milimu.github.io/About-Jerome/">About Jerome</a></li>
 </ul>
